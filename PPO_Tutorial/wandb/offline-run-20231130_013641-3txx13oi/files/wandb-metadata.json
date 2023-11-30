@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.8.0",
+    "heartbeatAt": "2023-11-30T06:36:41.925553",
+    "startedAt": "2023-11-30T06:36:41.308083",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--track"
+    ],
+    "state": "running",
+    "program": "ppo.py",
+    "codePath": "Python\\Capstone Playground\\PPO_Tutorial\\ppo.py",
+    "git": {
+        "remote": "https://github.com/wongm3079/Coding-Repo.git",
+        "commit": "6cc8bb6da9bffe8820e26ddf5014169afcae4eb4"
+    },
+    "email": "61476678+wongm3079@users.noreply.github.com",
+    "root": "C:/Users/mykwa/Documents/GitHub/Coding-Repo",
+    "host": "MYKWANPC",
+    "username": "mykwa",
+    "executable": "C:\\Users\\mykwa\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}

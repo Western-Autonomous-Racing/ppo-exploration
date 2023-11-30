@@ -1,0 +1,55 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.8.0",
+    "heartbeatAt": "2023-11-30T07:07:03.255460",
+    "startedAt": "2023-11-30T07:07:02.697021",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--track"
+    ],
+    "state": "running",
+    "program": "ppo.py",
+    "codePathLocal": "ppo.py",
+    "codePath": "Python\\Capstone Playground\\PPO_Tutorial\\ppo.py",
+    "git": {
+        "remote": "https://github.com/wongm3079/Coding-Repo.git",
+        "commit": "6cc8bb6da9bffe8820e26ddf5014169afcae4eb4"
+    },
+    "email": "61476678+wongm3079@users.noreply.github.com",
+    "root": "C:/Users/mykwa/Documents/GitHub/Coding-Repo",
+    "host": "MYKWANPC",
+    "username": "mykwa",
+    "executable": "C:\\Users\\mykwa\\Documents\\GitHub\\Coding-Repo\\Python\\Capstone Playground\\PPO_Tutorial\\shit_env\\Scripts\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.7871055603027,
+            "used": 859.0748901367188
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.89078140258789
+    }
+}
